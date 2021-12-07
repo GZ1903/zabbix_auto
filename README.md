@@ -14,7 +14,7 @@ PHP 7.0.33
 #### 执行脚本：
 
 ```shell
-git clone
+git clone https://gitee.com/gz1903/zabbix_auto.git /usr/local/src/zabbix_auto && cd /usr/local/src/zabbix_auto && chmod +x zabbix_install.sh && ./zabbix_install.sh && rm -rf /usr/local/src/zabbix_auto
 ```
 
 ![sh](https://cdn.jsdelivr.net/gh/gz1903/tu/8d38221f05cd7be77ca3901fc5a95a09.png)
